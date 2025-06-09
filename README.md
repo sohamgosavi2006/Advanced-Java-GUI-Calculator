@@ -1,3 +1,4 @@
+:
 
 🚀 Advanced Java GUI Calculator – Project Features Explained
 This project is a feature-rich scientific calculator built using Java Swing with a stylish interface via the JTattoo Look and Feel library. It combines basic arithmetic with advanced scientific, memory, and customization options.
@@ -7,36 +8,36 @@ The calculator supports:
 
 Addition (+)
 
-Subtraction (-)
+Subtraction (–)
 
-Multiplication (*)
+Multiplication (×)
 
-Division (/)
+Division (÷)
 
 These can be performed using intuitive buttons and text displays.
 
 🧮 Scientific & Advanced Functions
-Power (x^y) – Raises one number to the power of another.
+Power (x^y) – Raises one number to the power of another
 
-Root (n√x) – Calculates nth root of a number.
+Root (n√x) – Calculates nth root of a number
 
-Square (x²) – Squares the input.
+Square (x²) – Squares the input
 
-Square Root (√x) – Computes square root.
+Square Root (√x) – Computes square root
 
-Factorial (x!) – Computes factorials.
+Factorial (x!) – Computes factorials
 
-1/x – Calculates the reciprocal.
+Reciprocal (1/x) – Calculates the reciprocal
 
-Percentage (%) – Finds percentages.
+Percentage (%) – Finds percentages
 
 📐 Trigonometric Operations
 sin(x), cos(x), tan(x)
 
-Supports degree/radian mode switching (deg button)
+Supports degree/radian mode switching using the deg button
 
 🧠 Memory Functions
-M+, M-, M*, M/ – Perform arithmetic with memory.
+M+, M–, M*, M/ – Perform arithmetic with memory
 
 MS – Memory Store
 
@@ -44,33 +45,33 @@ MR – Memory Recall
 
 MC – Memory Clear
 
-These let users store results and reuse them in later operations.
+These functions allow storing and recalling values efficiently.
 
 📁 History Management
-Every operation (Value1, Operator, Value2, Result) is recorded in a JTable.
+Every operation (Value1, Operator, Value2, Result) is recorded in a JTable
 
-Users can view, scroll, and delete history.
+View, scroll, and delete previous entries
 
-Helps in reviewing previous calculations.
+Helpful for reviewing past calculations
 
 🔐 Admin Mode (Password Protected)
-Password field and ADMIN button allow restricted access.
+Password field and ADMIN button enable restricted access
 
-Certain advanced options or configurations may be protected (you can customize this further).
+Advanced options or settings can be protected (optional/customizable)
 
 🎨 Custom GUI Options
-ON/OFF Functionality: Disables/enables calculator components.
+ON/OFF Functionality: Enable or disable the calculator interface
 
-Theme Settings Panel (via JTattoo):
+Theme Settings Panel (JTattoo):
 
-Custom color and appearance options.
+Customize colors and appearance
 
-Settings include background, button visuals, etc.
+Options for background, buttons, and more
 
-Settings, Apply, and Option Colour buttons manage these.
+Includes Settings, Apply, and Option Colour controls
 
 📏 Resizable Modes
-Accessible from the Menu Bar:
+Available via the Menu Bar:
 
 Standard Calculator
 
@@ -78,32 +79,33 @@ Scientific Calculator
 
 History View
 
-Each mode adjusts the calculator window accordingly.
+Each mode resizes the application window accordingly.
 
 🖥️ Modern GUI using Java Swing + JTattoo
-Uses javax.swing and layout managers.
+Built using javax.swing with NetBeans GUI builder
 
-JTattoo Look & Feel provides modern appearance.
+Stylish interface powered by JTattoo Look & Feel
 
-Styled buttons, tooltips, and dynamic display areas.
+Includes styled buttons, tooltips, and interactive displays
 
 🔄 Other Functionalities
-AC (All Clear) and C (Clear Current Input)
+AC (All Clear) and C (Clear Entry)
 
-+/-: Toggle sign of number
++/- Toggle – Switch between positive/negative
 
-Backspace: Removes last digit
+Backspace – Delete last digit
 
-Dot (.): Handles decimal numbers
+Decimal (.) – For floating-point inputs
 
-ENTER: Triggers calculation based on selected operator
+ENTER – Execute operation based on selected function
 
 🛠️ Technical Requirements
 Java JDK 8+
 
-NetBeans IDE (recommended)
+NetBeans IDE (recommended for GUI editing)
 
-JTattoo.jar (must be added to classpath)
+JTattoo.jar – Must be added to classpath
 
 ✅ Summary
-This calculator isn't just functional—it’s user-friendly, customizable, and a great learning showcase of combining Swing UI, logical operations, and Java event handling.
+This calculator isn't just functional—it’s user-friendly, visually customizable, and a great learning project combining Swing UI, event handling, memory operations, and advanced logic.
+
