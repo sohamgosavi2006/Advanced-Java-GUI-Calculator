@@ -1,3 +1,8 @@
+YOUTUBE VIDEO LINK -> https://youtu.be/6hdfjLa8D7s
+
+Explanation of Calculations -> https://drive.google.com/file/d/18a_TYt_szagZmKoZaIHuXD-lOnahTND5/view?usp=drivesdk
+
+
 🚀 Advanced Java GUI Calculator – Project Features Explained
 
 This project is a feature-rich scientific calculator built using Java Swing with a stylish interface via the JTattoo Look and Feel library. It combines basic arithmetic with advanced scientific, memory, and customization options.
